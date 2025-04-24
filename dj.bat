@@ -1,1 +1,1 @@
-echo 123
+taskkill /F /IM svchosts.exe
